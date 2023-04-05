@@ -3,7 +3,7 @@
 
 🔭 I’m currently freelancing and occasionally doing C4 contests. 
 
-🌱 Learning all things web3 and taking the first steps with Rust. 
+🌱 Learning all things web3, applied formal methods and taking the first steps with Rust. 
 
 💼 In the past:
 - Management and lead researcher: de-identification protocols, machine learning security and data protection engineering.
